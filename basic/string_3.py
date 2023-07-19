@@ -9,13 +9,14 @@
 # c = a + b
 # print(c)
 
-# age = 36
-# txt = "My name is John, and I am {}"
-# print(txt.format(age))
+#Format String
+age = 36
+str = "I am {} years old"
+print(str.format(age))
 
 
-quantity = 3
-itemno = 567
-price = 49.95
-myorder = "I want to pay {2} dollars for {0} pieces of item {1}."
-print(myorder.format(quantity, itemno, price))
+price = 36
+day = 17 
+gate = 5
+str1 = "Gate number {2} with {0} ticket in day {1}"
+print(str1.format(price,day,gate))
