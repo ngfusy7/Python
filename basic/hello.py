@@ -1,8 +1,3 @@
-def main():
-    name = input("What's your name? ")
-    hello()
+print("hello, world")
 
-def hello():
-    print("hello", name)
 
-main()
