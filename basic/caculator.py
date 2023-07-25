@@ -1,13 +1,9 @@
-# x = input("Input the number: ")
-# y = input("Input the number: ")
+def main():
+    x = int(input("What's x: "))
+    print("x squared is ", square(x))
 
-# z = int(x) + int(y) 
 
-# print(z)
+def square(n):
+    return n * n 
 
-x = float(input("What's x: "))
-y = float(input("What's y: "))
-
-z = round(x / y, 2)
-
-print(f"{z:.2f}")
+main()
