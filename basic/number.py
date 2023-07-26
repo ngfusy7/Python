@@ -6,4 +6,3 @@ while True:
     else:
         break
 print(f"x is {x}")
- 
