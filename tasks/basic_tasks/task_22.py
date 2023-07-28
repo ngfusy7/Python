@@ -1,1 +1,2 @@
 #Palindrome Number
+import this
