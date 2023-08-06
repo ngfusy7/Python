@@ -18,6 +18,3 @@
 
 // console.log(new Set(array));
 
-function deQuy(){
-    deQuy();
-}
