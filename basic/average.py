@@ -1,3 +1,4 @@
-import statistics 
-
-print(statistics.mean([100, 90]))
+print("Hello World")
+a = 5 
+b = 6
+print(a+b)
