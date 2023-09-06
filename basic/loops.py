@@ -1,2 +1,6 @@
-for number in range(2, 6):
-    print(number)
+BASE_SIZE = 8
+
+for r in range(BASE_SIZE):
+    for c in range(r + 1):
+        print('*', end='')
+    print()
