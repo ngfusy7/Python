@@ -11,7 +11,5 @@
 #     height = height - 1 
 #     print("")
 
-height = 6 
-for s in range(height):
-    for c in range(height):
+
         
